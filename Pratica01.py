@@ -1,5 +1,5 @@
-##Prática 01: Programação em Python
-##1- Programa de Saudação  
+#Prática 01: Programação em Python
+#1- Programa de Saudação  
 print("Olá, mundo!")
 
 ##2- Calculadora de Soma
